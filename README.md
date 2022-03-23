@@ -16,7 +16,9 @@
 > python -m pip install --upgrade pip
 > python -m pip install flask
 > python -m flask run
-> ** If you run into weird server process already running type errors, run the following line to map your port to 80 instead:**
+
+
+### If you run into weird server process already running type errors, run the following line to map your port to 80 instead:
 > python -m flask run --host=0.0.0.0 --port=80
 
 ## Step 4: Ready to exit your virtual environment after saving your work? To Stop building the app:
